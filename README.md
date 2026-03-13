@@ -38,9 +38,10 @@ Procedure:
 
 5. Missing Word Prompting:
 
-   •	"The capital of France is ____."
+   •	"The capital of France is Paris_."
 
-   •	"In photosynthesis, plants absorb sunlight to produce ____."
+   •	"In photosynthesis, plants absorb sunlight to produce _glucose
+   (sugar) and oxygen__."
 
 
 # OUTPUT: 
